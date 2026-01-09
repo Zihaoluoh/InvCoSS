@@ -7,7 +7,7 @@
 This repository contains the official implementation of **InvCoSS**, a novel inversion-driven continual self-supervised learning framework for medical multi-modal image pre-training.
 
 **Key Features:**
-- Continual learning for medical imaging without catastrophic forgetting
+- Continual self-supervised learning for medical imaging
 - Inversion-driven approach for knowledge preservation and transfer
 - Multi-modal support (CT, MRI, X-ray, etc.)
 - Self-supervised pre-training
