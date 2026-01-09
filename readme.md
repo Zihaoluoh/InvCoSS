@@ -21,9 +21,9 @@ This repository contains the official implementation of **InvCoSS**, a novel inv
 ## Citation
 
 ```bibtex
-@article{invcoss2025,
+@article{luo2025invcoss,
   title={InvCoSS: Inversion-driven Continual Self-supervised Learning in Medical Multi-modal Image Pre-training},
-  author={[Your Names]},
+  author={Luo, Zihao and Rui, Shaohao and Tang, Zhenyu and Wang, Guotai and Wang, Xiaosong},
   journal={arXiv preprint arXiv:2512.19213},
   year={2025}
 }
